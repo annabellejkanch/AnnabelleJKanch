@@ -1,21 +1,9 @@
 ### 👋🏽 Hi! My name is Annabelle Kanchirathingal
 
-### ✏️I'm a Master of Science in Engineering Data Science student at the University of Houston. 
+I'm a Master of Science in Engineering Data Science student at the University of Houston. 
 
+### 📚 Projects
+Feel free to check out my [Portfolio](https://github.com/annabellekanch/Portfolio)! It holds a documented summary of all my data related projects!
 
-
-<!--
-**annabellekanch/AnnabelleKanch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### 📫 How to reach me:
-* [LinkedIn](https://www.linkedin.com/in/annabellekanch/)
+* Message me on [LinkedIn](https://www.linkedin.com/in/annabellekanch/)
