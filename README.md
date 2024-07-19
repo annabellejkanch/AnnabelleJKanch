@@ -1,4 +1,8 @@
-## 👩🏽 Introducing Myself
+### 👋🏽 Hi! My name is Annabelle Kanchirathingal
+
+### ✏️I'm a Master of Science in Engineering Data Science student at the University of Houston. 
+
+
 
 <!--
 **annabellekanch/AnnabelleKanch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +14,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 📫 How to reach me:
+* [LinkedIn](https://www.linkedin.com/in/annabellekanch/)
