@@ -3,7 +3,7 @@
 ### 🙋🏽‍♀️ About Me 
 I'm a Master of Science in Engineering Data Science student at the University of Houston. Currently I'm working on a research project that focuses on utilizing predictive analytics for risk assessment. I am interested in leveraging analysis and prediction techniques for fraud detection, risk analytics, and real-time analytics.
 
-### 📚 Projects
+### 🎯 Projects
 Feel free to check out my [Portfolio](https://github.com/annabellekanch/Portfolio)! It holds documented summaries of all my data analytics related projects
 
 ### ✍🏼 Tools
