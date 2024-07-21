@@ -13,7 +13,7 @@ ${{\color{BrickRed}\{\textsf{  Languages:\ \}}}}\$ Python, R, MATLAB
 
 ${{\color{OliveGreen}\{\textsf{  Data Visualization:\ \}}}}\$ Power BI, Tableau, Looker Studio
 
-${{\color{MidnightBlue}\{\textsf{  Database:\ \}}}}\$ SQL(noSQL, SSMS), PySpark
+${{\color{MidnightBlue}\{\textsf{  Database:\ \}}}}\$ SQL
 
 ${{\color{Fuchsia}\{\textsf{  Other Languages and Tools:\ \}}}}\$ Java, Git, Excel(PowerQuery)
 
