@@ -19,3 +19,6 @@ ${{\color{Fuchsia}\{\textsf{  Other Languages and Tools:\ \}}}}\$ Java, Git, Exc
 
 ### 📫 How to reach me:
 &#x1F539; Connect with me on [LinkedIn](https://www.linkedin.com/in/annabellekanch/)
+
+&#x1F539; [![Download My Resume](https://img.shields.io/badge/Download%20My%20Resume-F5C242)](https://raw.githubusercontent.com/annabellejkanch/Portfolio/main/assets/AnnabelleKanchirathingalResume.pdf)
+
